@@ -1,0 +1,31 @@
+{
+    ".comment 1": "Fehlheimer Straße",
+    "B-AKG" : {"B-Geburtshaus": 300, "B-Rathaus" : 180, "B-Heinrich-m-s": 180, "B-Beginenstrasse": 550},
+    "B-Geburtshaus" : {"B-AKG": 300, "B-Rodensteinzentrum": 350, "B-Rathaus": 350, "B-Beginenstrasse": 550},
+    "B-Rodensteinzentrum" : {"B-Geburtshaus": 350, "B-Ritterplatz": 140},
+
+    ".comment 2": "Wilhelstraße",
+    "B-Rathaus" : {"B-Geburtshaus": 350, "B-AKG": 180, "B-Heinrich-m-s": 350, "B-Roonstrasse": 550},
+    "B-Heinrich-m-s" : {"B-Rathaus": 350, "B-AKG": 180, "B-Richard-S-S": 290, "B-Roonstrasse": 500},
+    "B-Richard-S-S": {"B-Heinrich-m-s": 290, "B-Schillerstrasse-675": 200},
+    "B-Schillerstrasse-675": {"B-Richard-S-S": 200, "B-Schillerstrasse-671": 94},
+    "B-Schillerstrasse-671": {"B-Schillerstrasse-675": 94},
+
+    ".comment 3": "Darmstädterstrasse",
+    "B-Roonstrasse": {"B-Rathaus": 550, "B-Heinrich-m-s": 500, "B-Kirchbergschule": 450},
+    "B-Kirchbergschule": {"B-Roonstrasse": 450, "B-Weingut": 350},
+    "B-Weingut": {"B-Kirchbergschule": 350, "B-Ritterplatz": 270},
+
+    "B-Ritterplatz": {"B-Weingut": 270, "B-Rodensteinzentrum": 140, "B-Bahnhof": 300},
+    "B-Bahnhof": {"B-Ritterplatz": 300, "B-Hallenbad": 290, "B-Dammstr-Bahnhof": 450},
+    "B-Dammstr-Bahnhof": {"B-Bahnhof": 450, "B-Annastrasse": 250},
+    "B-Annastrasse": {"B-Schwanheimerstrasse": 450, "B-Dammstr-Bahnhof": 250},
+    "B-Schwanheimerstrasse": {"B-Berliner-Ring": 650, "B-Annastrasse": 450},
+    "B-Berliner-Ring": {"B-G-S-S": 170, "B-Badesee": 240, "B-Schwanheimerstrasse": 650},
+    "B-Badesee": {"B-Berliner-Ring": 240, "B-Beginenstrasse": 450},
+    "B-Beginenstrasse": {"B-AKG": 550, "B-Geburtshaus": 550, "B-AWO": 350, "B-Stephanuskriche": 400, "B-Badesee": 450},
+    "B-Hallenbad": {"B-AWO": 350, "B-Bahnhof": 290},
+    "B-G-S-S": {"B-Stephanuskriche": 210, "B-Berliner-Ring": 170},
+    "B-Stephanuskriche": {"B-Beginenstrasse": 400, "B-AWO": 250, "B-G-S-S": 210},
+    "B-AWO": {"B-Beginenstrasse": 350, "B-Stephanuskriche": 400, "B-AWO":250, "B-Hallenbad":350}
+}

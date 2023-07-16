@@ -1,0 +1,32 @@
+{
+    ".comment 1": "Fehlheimer Straße",
+    "AKG": "B-AKG",
+    "Geburtshaus": "B-Geburtshaus",
+    "Rodensteinzentrum": "B-Rodensteinzentrum",
+
+    ".comment 2": "Wilhelstraße",
+    "Rathaus": "B-Rathaus",
+    "Heinrich Metzendorf Schule": "B-Heinrich-m-s",
+    "Richard-Strauss-Strasse": "B-Richard-S-S",
+    "Schillerstrasse (675)": "B-Schillerstrasse-675",
+    "Schillerstrasse (671)": "B-Schillerstrasse-671",
+
+    ".comment 3": "Darmstädterstrasse",
+    "Roonstrasse":"B-Roonstrasse",
+    "Kirchbergschule":"B-Kirchbergschule",
+    "Weingut": "B-Weingut",
+
+    "Ritterplatz" : "B-Ritterplatz",
+
+    "Bahnhof": "B-Bahnhof",
+    "Dammstrasse/Bahnhof": "B-Dammstr-Bahnhof",
+    "Annastrasse": "B-Annastrasse",
+    "Schwanheimerstrasse": "B-Schwanheimerstrasse",
+    "Berliner Ring": "B-Berliner-Ring",
+    "Badesee": "B-Badesee",
+    "Beginenstrasse": "B-Beginenstrasse",
+    "Hallenbad": "B-Hallenbad",
+    "Geschwister Scholl Schule": "B-G-S-S",
+    "Stephanuskriche": "B-Stephanuskriche",
+    "AWO-Wohnheim": "B-AWO"
+}
